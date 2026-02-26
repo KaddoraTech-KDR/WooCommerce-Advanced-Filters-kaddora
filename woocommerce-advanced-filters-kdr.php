@@ -7,7 +7,6 @@
  * Requires PHP: 7.4
  * Author: kaddoraTech
  * License: GPLv2 or later
- * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: woocommerce-advanced-filters-kaddora
  * Domain Path: /languages
  * WC requires at least: 8.0
